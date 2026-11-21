@@ -1,13 +1,58 @@
-# Taller de Cálculo Avanzado — Primer cuatrimestre de 2012
+# Taller de Cálculo Avanzado
 
-## Prácticas
+## Novedades
 
-- [Práctica 1](practica1.pdf)
-- [Práctica 2](practica2.pdf)
-- [Práctica 3](practica3.pdf)
-- [Práctica 4](practica4.pdf)
-- [Práctica 5](practica5.pdf)
+\
+- Clase de consulta, martes 3 de julio, 10 horas, aula 6, pabellón 1.
 
-## Página original
+- Ya está disponible la práctica 5 y la cuarta tarea.
 
-[Página de la cursada en el CMS](https://cms.dm.uba.ar/academico/materias/1ercuat2012/taller_de_calculo_avanzado)
+- Ya está disponible la práctica 4 y la tercera tarea.
+
+- Ya está disponible la práctica 3 y la segunda tarea.
+
+- Ya está disponible la práctica 2 y la primera tarea.
+
+- Ya está disponible la práctica 1.
+
+- El jueves 22/03 comienzan las clases. Solamente por este jueves, en la práctica del turno mañana no habrá explicación en el pizarrón; usaremos la clase para presentarnos. Por eso, por esta vez la cita será a las 10 hs. En el turno tarde sí habrá clase práctica.\
+
+## 
+
+## Docentes, horarios y aulas
+
+\
+\
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+|  |
+
+**Docentes** |
+
+**Horarios** |
+
+**Aula** |
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| **Práctica** | María Elena Becker - [Gonzalo Comas](mailto:gcomas@dm.uba.ar) - Ernesto Fernández  Jueves de 8 a 11 | 5 | |
+|
+
+**Teórica** |
+
+[María Elena Becker](mailto:mbecker@dm.uba.ar) |
+
+Jueves de 11 a 13 |
+
+5 |
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| **Práctica** |
+
+[Gonzalo Comas](mailto:gcomas@dm.uba.ar) - Ernesto Fernández |
+
+Jueves de 14 a 17 |
+
+12 |
